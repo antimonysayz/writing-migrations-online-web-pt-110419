@@ -1,2 +1,1 @@
-
 class Add < ActiveRecord::Migration
