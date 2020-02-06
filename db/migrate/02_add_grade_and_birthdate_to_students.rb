@@ -1,6 +1,7 @@
 class Add < ActiveRecord::Migration[5.1]
 
 def change
-  add_colum :
+  add_column :students, :birthdate, string, :grade, integer
+end
 
 end
